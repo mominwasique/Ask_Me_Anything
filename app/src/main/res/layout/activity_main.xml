@@ -58,7 +58,8 @@
                     android:layout_height="50dp"
                     android:layout_weight="0.4"
                     android:background="@android:color/transparent"
-                    android:drawableLeft="@drawable/ic_baseline_search_24"/>
+                    android:drawableLeft="@drawable/ic_baseline_search_24"
+                    />
 
 
             </LinearLayout>
